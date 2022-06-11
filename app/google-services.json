@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "932241398350",
+    "project_id": "cryptotrader-fdcfc",
+    "storage_bucket": "cryptotrader-fdcfc.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:932241398350:android:253d94d527a2ee9759411f",
+        "android_client_info": {
+          "package_name": "com.ligomezm.firebasecourse"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "932241398350-mah46oett8hmm1hef50q9c0iu1cdp3hi.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.ligomezm.firebasecourse",
+            "certificate_hash": "b38459203cffcfad4ce7175d35e0c3b846e58ed7"
+          }
+        },
+        {
+          "client_id": "932241398350-jc01v8nm0865cu9n2aobssjst5hu83b3.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDyQe0QDR-PAqvg3cF936itVqFf8jhTfH8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "932241398350-jc01v8nm0865cu9n2aobssjst5hu83b3.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
