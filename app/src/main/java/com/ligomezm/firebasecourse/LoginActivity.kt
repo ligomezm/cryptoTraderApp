@@ -35,7 +35,7 @@ class LoginActivity : AppCompatActivity() {
             .addOnCompleteListener { task ->
                 if (task.isSuccessful){
                     val username = username.text.toString()
-                    
+
                     firestoreService.findUserById(username, object : Callback<User>{
                         override fun onSuccess(result: User?) {
                             if (result == null){
